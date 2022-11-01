@@ -95,7 +95,6 @@ sudo systemctl enable mysqld
 
 ![Screenshot from 2022-11-01 10-57-29](https://user-images.githubusercontent.com/106885875/199208185-c52ae5d9-6ccd-45c6-8bc4-a8222e559509.png)
 
-![Screenshot from 2022-11-01 09-16-41](https://user-images.githubusercontent.com/106885875/199208412-8f57f3ea-8363-4983-bbfc-5d73dafa201f.png)
 
 # Step 6 — Configure WordPress to connect to remote database #
 
